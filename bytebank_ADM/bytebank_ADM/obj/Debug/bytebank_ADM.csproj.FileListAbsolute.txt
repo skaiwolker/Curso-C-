@@ -1,0 +1,6 @@
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\bin\Debug\bytebank_ADM.exe
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\bin\Debug\bytebank_ADM.pdb
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\obj\Debug\bytebank_ADM.csproj.AssemblyReference.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\obj\Debug\bytebank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\obj\Debug\bytebank_ADM.exe
+C:\Users\darta\OneDrive\Documents\DArtagnan Lamarca\Cursos\Curso-CSharp\bytebank_ADM\bytebank_ADM\obj\Debug\bytebank_ADM.pdb
